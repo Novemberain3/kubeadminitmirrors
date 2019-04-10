@@ -1,0 +1,2 @@
+# kubeadminitmirrors
+kubeadminitmirrors
